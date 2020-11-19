@@ -16,7 +16,7 @@
 
 ## Custom mods
 
-- I have set the `Circuit breaker for IO safety` (safety switch) from 0 (enable) to 22027 (disabled)
+- The connector of my safety switch broke. While I fix it I have set the `Circuit breaker for IO safety` (safety switch) from 0 (enable) to 22027 (disabled)
 
 ## Troubleshooting
 
