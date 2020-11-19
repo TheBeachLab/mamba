@@ -19,5 +19,8 @@
 
 ## Current status
 
-- Cannot connect via radio. Unable to open port
 - Need to assemble and calibrate accelerometer and compass
+
+## Troubleshooting
+
+- If you have the parameter autoconnect activated do not try to connect manually. It will complain that it is ` Unable to open port`. Instead just wait for the connection to be stablished.
