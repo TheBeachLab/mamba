@@ -14,6 +14,10 @@
 
 ![pixhawk wiring](../img/pixhawk.jpg)
 
+## Custom mods
+
+- I have set the `Circuit breaker for IO safety` (safety switch) from 0 (enable) to 22027 (disabled)
+
 ## Troubleshooting
 
 ### GPS Power issue
@@ -24,4 +28,3 @@ If the power comes from a serial with VDD brick line (TELEM1 for instance) there
 
 Workarounds:
 	- Plug the GPS after booting
-	- Connect the GPS on TELEM1 or TELEM2 and change the settings accordingly
