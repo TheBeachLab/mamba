@@ -9,3 +9,4 @@ Mamba is an autonomous drone. Designed to military standards. Trained for social
 - [Ground control](doc/control.md)
 - [Vision](doc/vision.md)
 - [Artificial intelligence](doc/ai.md)
+- [MIL-STD Validation](doc/mil-std.md)
